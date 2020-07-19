@@ -1,4 +1,4 @@
-CBSA_CODE,CBSA_TITLE,AREA_TYPE,CSA_TITLE,,STATE_NAME,IS_CENTRAL
+CBSA_CODE,CBSA_TITLE,AREA_TYPE,CSA_TITLE,COUNTY,STATE_NAME,IS_CENTRAL
 10100,"Aberdeen, SD",Micro,,Brown ,South Dakota,1
 10100,"Aberdeen, SD",Micro,,Edmunds ,South Dakota,0
 10140,"Aberdeen, WA",Micro,,Grays Harbor ,Washington,1
