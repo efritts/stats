@@ -17,6 +17,6 @@ CityStateCountyCbsa.csv :  Provides a referencable list containing the City, Sta
 
 CBSA.csv :  Provides detailed geographic information sorted by CBSA code.
 
-Beds.csv : Provides Hospital Name, City, State, and infrastructure metrics for 3,597 locations across the US.
+Hospitals.csv : Provides Hospital Name, City, State, and infrastructure metrics for 3,597 locations across the US.
 
 
