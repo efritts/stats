@@ -19,4 +19,10 @@ CBSA.csv :  Provides detailed geographic information sorted by CBSA code.
 
 Hospitals.csv : Provides Hospital Name, City, State, and infrastructure metrics for 3,597 locations across the US.
 
+# Sources
+CBSA information prepared by U.S. Census Bureau, Population Division, based on Office of Management and Budget, March 2020 delineations <https://www.whitehouse.gov/wp-content/uploads/2020/03/Bulletin-20-01.pdf>.	
+
+US City/State/County information provided by simplemaps.com under Creative Commons Attribution 4.0 license for non production uses.  <https://simplemaps.com/data/us-cities> .
+
+Information related to individual hospitals retrieved from American Hospitals Directory, <https://www.ahd.com/state_statistics.html>
 
