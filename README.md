@@ -13,6 +13,8 @@ important to be able to reference this data to bring a relevant healthcare infra
 # Documents
 uscities.csv :  Provides City, State, County, Population, and Density figures for 28,889 US locations.
 
+USCitiesLatLonZip :  Provides City, State, Latitude, Longitude, and array of Zip Codes for cross-reference.
+
 CityStateCountyCbsa.csv :  Provides a referencable list containing the City, State, County, and applicable CBSA code.
 
 CBSA.csv :  Provides detailed geographic information sorted by CBSA code.
